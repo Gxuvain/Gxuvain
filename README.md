@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **A bookmarks app**
 
-- 🌱 I’m currently learning **Python, HTML, CSS, JS, SQL, Flutter, Dart**
+- 🌱 I’m currently learning **Python, HTML, CSS, JS, SQL, Flutter, Dart, Linux**
 
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **gauvainpalanga@gmail.com**
 
-- 🐧 I want to learn **Java, C#, Kotlin, Linux, Swift**
+- 🐧 I want to learn **Java, C#, Kotlin, Swift**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

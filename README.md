@@ -2,18 +2,8 @@
   <img src="https://i.imgur.com/JFQxTRs.gif" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Gauvain</h1>
-<h3 align="center">A dev student from France</h3>
-
-- 🔭 I’m currently working on **A bookmarks app**
-
-- 🌱 I’m currently learning **Python, HTML, CSS, JS, SQL, Flutter, Dart, Linux**
-
-- 💬 Ask me about **Python**
-
-- 📫 How to reach me **gauvainpalanga@gmail.com**
-
-- 🐧 I want to learn **Java, C#, Kotlin, Swift**
+<h1>🌸 I'm Gauvain</h1>
+<h3>A dev student from France</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
